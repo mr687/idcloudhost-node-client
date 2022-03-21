@@ -1,8 +1,13 @@
 ### Unofficial ID Cloudhost Client
 
 #### Getting started
-- Install package: `yarn add idcloudhost-node-client`
+- Install package:
 
+```bash
+yarn add idcloudhost-node-client
+```
+
+- Usage
 ```typescript
 import IdcClient from 'idcloudhost-node-client'
 
