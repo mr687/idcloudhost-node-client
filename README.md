@@ -1,4 +1,4 @@
-### Unofficial ID Cloudhost Client
+## Unofficial ID Cloudhost API Client
 
 #### Getting started
 - Install package:
