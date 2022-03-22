@@ -1,11 +1,12 @@
 {
   "name": "idcloudhost-node-client",
   "version": "0.0.3",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "author": "mr687 <davinomoehdanino@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --transpile-only --respawn --cls ./src/index.ts"
+    "build": "tsc"
   },
   "dependencies": {
     "axios": "^0.26.1"
