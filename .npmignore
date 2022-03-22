@@ -1,0 +1,15 @@
+.DS_Store
+._*
+.vs-code
+.git
+.gitignore
+.*.swp
+.hg
+.npmignore
+.npmrc
+.lock-wscript
+.svn
+.wafpickle-*
+config.gypi
+CVS
+npm-debug.log
